@@ -14,6 +14,7 @@ int main(void) {
   //William's Contribution
   printf("William Jones\n");
   printf("Actuarial Science\n");
+  //Jacob's Contribution
   printf("Jacob Broermann\n");
   printf("Computer Science\n");
   
